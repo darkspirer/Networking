@@ -1,1 +1,2 @@
-
+# Networking 
+The Networking Basics course teaches the fundamentals of networking by covering the basic concepts and skills needed to set up and manage your small office or home office (SOHO) network. The learner is presented with an engaging and exploratory view of networks, the devices that comprise them, how they work, and basic troubleshooting tools and techniques. The goal of this course is to provide the learner with an engaging, exploratory view of networks, including the internet
